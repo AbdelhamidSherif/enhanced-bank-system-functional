@@ -30,7 +30,7 @@ This functional version serves as a foundation and reference point for comparing
 
 This enhanced version builds upon the basic bank management system with significant improvements and new functionality:
 
-> 📌 **Want to see the original version?** Check out the [Basic Bank Management System](https://github.com/yourusername/bank-management-functional-cpp) to compare the evolution and understand the development journey from basic CRUD operations to a complete banking solution.
+> 📌 **Want to see the original version?** Check out the [Basic Bank Management System](https://github.com/AbdelhamidSherif/bank-management-functional-cpp) to compare the evolution and understand the development journey from basic CRUD operations to a complete banking solution.
 
 ### ✨ Major Additions & Enhancements
 
