@@ -324,7 +324,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Abdelhamid Sherif**
 - GitHub: [@AbdelhamidSherif](https://github.com/AbdelhamidSherif)
-- LinkedIn: [abdelhamid-sherif](https://linkedin.com/in/abdelhamid-sherif)
+- LinkedIn: [Abdelhamid Sherif](https://linkedin.com/in/abdelhamid-sherif)
 
 ## 📞 Support
 
