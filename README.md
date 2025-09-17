@@ -108,7 +108,7 @@ Each client record contains:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/enhanced-bank-system-functional.git
+   git clone https://github.com/AbdelhamidSherif/enhanced-bank-system-functional.git
    cd enhanced-bank-system-functional
    ```
 
