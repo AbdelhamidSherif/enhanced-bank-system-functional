@@ -275,7 +275,7 @@ This project is part of a series demonstrating different programming paradigms:
 
 ### 🔄 **Quick Navigation:**
 - 🏃‍♂️ **[Go to Basic Version →](https://github.com/AbdelhamidSherif/bank-management-functional-cpp)** - Simple client management without transactions
-- 🚀 **[View OOP Version →](https://github.com/AbdelhamidSherif/bank-system-oop-cpp)** - Coming soon with class-based design
+- 🚀 **[View OOP Version →](https://github.com/AbdelhamidSherif/complete-bank-system-oop-cpp)** - Coming soon with class-based design
 - 📚 **[See All Banking Projects →](https://github.com/AbdelhamidSherif?tab=repositories&q=bank&type=&language=)** - Complete collection
 
 ## 🤝 Contributing
